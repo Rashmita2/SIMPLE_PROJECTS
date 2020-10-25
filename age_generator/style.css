@@ -1,0 +1,19 @@
+.container {
+
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    border: 1px solid black;
+    padding: 15px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.btn div {
+    padding: 10px;
+    border: 2px solid blue;
+}
